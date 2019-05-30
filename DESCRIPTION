@@ -1,0 +1,11 @@
+Package: shinyK2PDFOpt
+Type: Package
+Title: Shiny App for K2PDFOpt
+Version: 0.1.0
+Author: Frederik Rehbach
+Maintainer: Frederik Rehbach <frederik.rehbach@gmail.com>
+Description: Turn PDFs / Books / Scientific Papers into a format that is well readable on Kindles. 
+    GUI for https://www.willus.com/k2pdfopt/
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
