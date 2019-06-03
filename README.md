@@ -10,9 +10,14 @@ This app provides a GUI interface for using k2pdfopt.
 # Usage:
 
 Only Once:
+```R
 install.github("frehbach/kindleConvert")
 shinyK2PDFOpt::downloadConverter()
+```
 
 Every Time:
+```R
 library("shinyK2PDFOpt")
 runConverter()
+```
+
