@@ -5,3 +5,4 @@
 *.Rproj
 .DS_Store
 inst/shinyK2PDFOpt/k2pdfopt
+inst/shinyK2PDFOpt/www
