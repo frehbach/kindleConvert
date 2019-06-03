@@ -4,4 +4,4 @@
 .Ruserdata
 *.Rproj
 .DS_Store
-/inst/k2pdfopt
+*/k2pdfopt
